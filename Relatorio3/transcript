@@ -48,3 +48,18 @@
 # Compile of multiplexador_8x1_tb.vhd was successful.
 # Compile of decodificador_4x16.vhd was successful.
 # 3 compiles, 0 failed with no errors.
+# Compile of multiplexador_8x1.vhd was successful.
+# Compile of multiplexador_8x1_tb.vhd was successful.
+# Compile of decodificador_4x16.vhd was successful.
+# Compile of decodificador_4X16_tb.vhd failed with 4 errors.
+# 4 compiles, 1 failed with 4 errors.
+# Compile of multiplexador_8x1.vhd was successful.
+# Compile of multiplexador_8x1_tb.vhd was successful.
+# Compile of decodificador_4x16.vhd was successful.
+# Compile of decodificador_4X16_tb.vhd failed with 4 errors.
+# 4 compiles, 1 failed with 4 errors.
+# Compile of multiplexador_8x1.vhd was successful.
+# Compile of multiplexador_8x1_tb.vhd was successful.
+# Compile of decodificador_4x16.vhd was successful.
+# Compile of decodificador_4X16_tb.vhd was successful.
+# 4 compiles, 0 failed with no errors.
