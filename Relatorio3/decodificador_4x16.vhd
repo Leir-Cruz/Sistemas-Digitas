@@ -1,12 +1,12 @@
 library ieee;
 use ieee.std_logic_1164.all;
 
-entity decodificar_4x16 is
+entity decodificador_4x16 is
     port (
         A: in std_logic_vector (3 downto 0);
         Y: out std_logic_vector (15 downto 0)
     );
-end decodificar_4x16;
+end decodificador_4x16;
 
 architecture decodificador_4x16_arch of decodificador_4x16 is
     begin
@@ -73,3 +73,5 @@ architecture decodificador_4x16_arch of decodificador_4x16 is
         with A select
             Y(15) <= '1' when "1111",
                     '0' when others;
+
+    end decodificador_4x16_arch;
