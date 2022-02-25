@@ -1,12 +1,4 @@
-/home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/decodificador_4x16.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/decodificador_4x16.vhd
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity decodificador_4x16
--- Compiling architecture decodificador_4x16_arch of decodificador_4x16
-
-} {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/multiplexador_8x1.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/multiplexador_8x1.vhd
+/home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/multiplexador_8x1.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/multiplexador_8x1.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -14,13 +6,13 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 
 -- Compiling entity multiplexador_8x1
 -- Compiling architecture multiplexador_8x1_arch of multiplexador_8x1
 
-} {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/decodificador_4X16_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/decodificador_4X16_tb.vhd
+} {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/decodificador_4x16.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/decodificador_4x16.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity decodificador_4x16_tb
--- Compiling architecture decodificador_4x16_arch of decodificador_4x16_tb
+-- Compiling entity decodificador_4x16
+-- Compiling architecture decodificador_4x16_arch of decodificador_4x16
 
 } {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/multiplexador_8x1_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/multiplexador_8x1_tb.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
@@ -29,5 +21,13 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 
 -- Loading package std_logic_1164
 -- Compiling entity multiplexador_8x1_tb
 -- Compiling architecture multiplexador_8x1_arch of multiplexador_8x1_tb
+
+} {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/decodificador_4X16_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio3/decodificador_4X16_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decodificador_4x16_tb
+-- Compiling architecture decodificador_4x16_arch of decodificador_4x16_tb
 
 } {} {}}
