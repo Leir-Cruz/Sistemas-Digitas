@@ -1,0 +1,33 @@
+/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity multiplexador
+-- Compiling architecture multiplexador_arch of multiplexador
+
+} {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity multiplexador_tb
+-- Compiling architecture multiplexador_tb_arch of multiplexador_tb
+
+} {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador_completo
+-- Compiling architecture somador_completo_arch of somador_completo
+
+} {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador_completo_tb
+-- Compiling architecture somador_completo_tb_arch of somador_completo_tb
+
+} {} {}}

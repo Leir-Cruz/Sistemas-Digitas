@@ -1,0 +1,175 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gabrielcruz
+Emultiplexador
+Z0 w1645185153
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 69
+Z3 d/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2
+Z4 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador.vhd
+Z5 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador.vhd
+l0
+L4 1
+Vm9;jKT_1SHiL9>2X[oAkk2
+!s100 Sn_==j=gUaX=Y?4TNA2MY1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1645199557
+!i10b 1
+Z8 !s108 1645199557.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador.vhd|
+Z10 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Amultiplexador_arch
+R1
+R2
+DEx4 work 13 multiplexador 0 22 m9;jKT_1SHiL9>2X[oAkk2
+!i122 69
+l13
+L12 4
+V]l1IRdO9_N<@db<:7lDd10
+!s100 fVBfLlZG8V653SGPbEgHm2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emultiplexador_tb
+Z13 w1645189045
+R1
+R2
+!i122 70
+R3
+Z14 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador_tb.vhd
+Z15 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador_tb.vhd
+l0
+L4 1
+Vh0TlcclV^?m:fB4XBTHVi3
+!s100 b?]3^`lGUFIj7ShJQLX[X0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador_tb.vhd|
+Z17 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/multiplexador_tb.vhd|
+!i113 1
+R11
+R12
+Amultiplexador_tb_arch
+R1
+R2
+Z18 DEx4 work 16 multiplexador_tb 0 22 h0TlcclV^?m:fB4XBTHVi3
+!i122 70
+l25
+Z19 L6 60
+Z20 VPUl<AgbTc6^c8Rnz8jEk43
+Z21 !s100 Eg9[PB@6ekfZFHK;GUjdN2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Esomador_completo
+Z22 w1644609298
+R1
+R2
+!i122 67
+R3
+Z23 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo.vhd
+Z24 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo.vhd
+l0
+L4 1
+V?lV8efP@?S[H8?@N;Uz651
+!s100 gV;ZjhCAHgz]0I6:oEnPT0
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo.vhd|
+Z26 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo.vhd|
+!i113 1
+R11
+R12
+Asomador_completo_arch
+R1
+R2
+DEx4 work 16 somador_completo 0 22 ?lV8efP@?S[H8?@N;Uz651
+!i122 67
+l15
+L14 5
+VQ]O;JOS3644nKkl2G;mX33
+!s100 Z2W_9T<0FC;9lOUY3S7=@0
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Esomador_completo_tb
+Z27 w1645186650
+R1
+R2
+!i122 68
+R3
+Z28 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo_tb.vhd
+Z29 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo_tb.vhd
+l0
+L4 1
+VGOJI[LPi59?nRDAhPm<e?2
+!s100 JNY_>0hRkz@Qf[mGS<B[F3
+R6
+32
+R7
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo_tb.vhd|
+Z31 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio2/somador_completo_tb.vhd|
+!i113 1
+R11
+R12
+Asomador_completo_tb_arch
+R1
+R2
+DEx4 work 19 somador_completo_tb 0 22 GOJI[LPi59?nRDAhPm<e?2
+!i122 68
+l25
+L6 41
+VG9VDFk3jVQVacF9lB^SZS3
+!s100 ;m[FG8QJ0j`=G?_Te>NKd2
+R6
+32
+R7
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
