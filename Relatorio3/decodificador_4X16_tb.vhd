@@ -7,7 +7,7 @@ architecture decodificador_4x16_arch of decodificador_4x16_tb is
     component decodificador_4x16 is
         port(
             A: in std_logic_vector ( 3 downto 0 );
-            Y: out std_logic
+            Y: out std_logic_vector ( 15 downto 0 )
         );
     end component;
 
@@ -30,19 +30,19 @@ architecture decodificador_4x16_arch of decodificador_4x16_tb is
         clock1: process
         begin
             A_1(1) <= '0', '1' after time_1/2, '0' after time_1;
-            wait for time_0;
+            wait for time_1;
         end process clock1;
 
         clock2: process
         begin
             A_1(2) <= '0', '1' after time_2/2, '0' after time_2;
-            wait for time_0;
+            wait for time_2;
         end process clock2;
 
         clock3: process
         begin
             A_1(3) <= '0', '1' after time_3/2, '0' after time_3;
-            wait for time_0;
+            wait for time_3;
         end process clock3;
 
 end decodificador_4x16_arch;
