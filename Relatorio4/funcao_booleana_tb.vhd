@@ -17,9 +17,9 @@ architecture funcao_booleana_arch of funcao_booleana_tb is
     --quanto mais significativo maior o tempo
     signal entrance: std_logic_vector (2 downto 0) := "000";
 
-    constant time_0: time := 2ns;
-    constant time_1: time := 4ns;
-    constant time_2: time := 8ns;
+    constant time_0: time := 2 ns;
+    constant time_1: time := 4 ns;
+    constant time_2: time := 8 ns;
 
     begin
         funcao_booleana_1: funcao_booleana port map ( A => entrance(2), B => entrance(1), C => entrance(0), X => open, Y => open );

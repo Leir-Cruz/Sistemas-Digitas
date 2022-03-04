@@ -10,10 +10,10 @@ z2
 cModel Technology
 d/home/gabrielcruz
 Efuncao_booleana
-Z0 w1646358194
+Z0 w1646412309
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 17
+!i122 38
 Z3 d/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4
 Z4 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana.vhd
 Z5 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana.vhd
@@ -23,9 +23,9 @@ VGXFPa:L5S`MX]U_1diWE;1
 !s100 ]ZlPhj]]:>jK61SLIRg6m0
 Z6 OV;C;2020.1;71
 32
-Z7 !s110 1646361316
+Z7 !s110 1646412337
 !i10b 1
-Z8 !s108 1646361316.000000
+Z8 !s108 1646412336.000000
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana.vhd|
 Z10 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana.vhd|
 !i113 1
@@ -35,11 +35,11 @@ Afuncao_booleana_arch
 R1
 R2
 DEx4 work 15 funcao_booleana 0 22 GXFPa:L5S`MX]U_1diWE;1
-!i122 17
+!i122 38
 l25
 L14 18
-VK>>>YOejI:[H`fI?ZbnTM1
-!s100 j]UPgk5D?g07<`MCcoSi]1
+V@R:>IFNlOFh0Bhn2flzhe3
+!s100 `lIjBcU]^5ze3>MTWz]I23
 R6
 32
 R7
@@ -51,10 +51,10 @@ R10
 R11
 R12
 Efuncao_booleana_tb
-Z13 w1646361310
+Z13 w1646412077
 R1
 R2
-!i122 18
+!i122 39
 R3
 Z14 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd
 Z15 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd
@@ -66,9 +66,9 @@ R6
 32
 R7
 !i10b 1
-R8
-Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd|
-Z17 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd|
+Z16 !s108 1646412337.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd|
+Z18 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd|
 !i113 1
 R11
 R12
@@ -76,29 +76,29 @@ Afuncao_booleana_arch
 R1
 R2
 DEx4 work 18 funcao_booleana_tb 0 22 NN`P=FRDj=9Y@AaV9Em0E3
-!i122 18
+!i122 39
 l24
 L6 26
-VmTAnznEMX7l7i4LV1<2i?1
-!s100 UJ7_9WYW8O<5SWA`0`>CI3
+VzE8CA;NB[h@[=KbbKJAeD0
+!s100 nUDk1Hag=J2nTj]4MPl0N1
 R6
 32
 R7
 !i10b 1
-R8
 R16
 R17
+R18
 !i113 1
 R11
 R12
 Emultiplexador
-Z18 w1645185153
+Z19 w1646363519
 R1
 R2
-!i122 19
+!i122 40
 R3
-Z19 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/multiplexador.vhd
-Z20 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/multiplexador.vhd
+Z20 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/multiplexador.vhd
+Z21 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/multiplexador.vhd
 l0
 L4 1
 Vm9;jKT_1SHiL9>2X[oAkk2
@@ -107,28 +107,28 @@ R6
 32
 R7
 !i10b 1
-R8
-Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/multiplexador.vhd|
-Z22 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/multiplexador.vhd|
+R16
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/multiplexador.vhd|
+Z23 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/multiplexador.vhd|
 !i113 1
 R11
 R12
 Amultiplexador_arch
 R1
 R2
-Z23 DEx4 work 13 multiplexador 0 22 m9;jKT_1SHiL9>2X[oAkk2
-!i122 19
+Z24 DEx4 work 13 multiplexador 0 22 m9;jKT_1SHiL9>2X[oAkk2
+!i122 40
 l13
-Z24 L12 4
-Z25 V]l1IRdO9_N<@db<:7lDd10
-Z26 !s100 fVBfLlZG8V653SGPbEgHm2
+Z25 L12 4
+Z26 V]l1IRdO9_N<@db<:7lDd10
+Z27 !s100 fVBfLlZG8V653SGPbEgHm2
 R6
 32
 R7
 !i10b 1
-R8
-R21
+R16
 R22
+R23
 !i113 1
 R11
 R12
