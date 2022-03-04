@@ -1,12 +1,4 @@
-/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana.vhd
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity funcao_booleana
--- Compiling architecture funcao_booleana_arch of funcao_booleana
-
-} {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd
+/home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio4/funcao_booleana_tb.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
