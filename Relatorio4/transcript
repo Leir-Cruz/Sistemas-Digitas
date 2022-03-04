@@ -1,1 +1,29 @@
 # Loading project relatorio4
+# Compile of funcao_booleana.vhd was successful.
+# Compile of funcao_booleana_tb.vhd failed with 1 errors.
+# Compile of multiplexador.vhd was successful.
+# 3 compiles, 1 failed with 1 error.
+# Errors: 0, Warnings: 0
+# Compile of funcao_booleana.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of multiplexador.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of funcao_booleana_tb.vhd failed.
+# Compile of funcao_booleana.vhd was successful.
+# Compile of funcao_booleana_tb.vhd failed with 11 errors.
+# Compile of multiplexador.vhd was successful.
+# 3 compiles, 1 failed with 11 errors.
+# Compile of funcao_booleana.vhd was successful.
+# Compile of funcao_booleana_tb.vhd failed with 1 errors.
+# Compile of multiplexador.vhd was successful.
+# 3 compiles, 1 failed with 1 error.
+# Compile of funcao_booleana.vhd was successful.
+# Compile of funcao_booleana_tb.vhd failed with 1 errors.
+# Compile of multiplexador.vhd was successful.
+# 3 compiles, 1 failed with 1 error.
+# Compile of funcao_booleana.vhd was successful.
+# Compile of funcao_booleana_tb.vhd was successful with warnings.
+# Compile of multiplexador.vhd was successful.
+# 3 compiles, 0 failed with no errors.
