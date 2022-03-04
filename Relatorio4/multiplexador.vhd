@@ -11,5 +11,8 @@ end multiplexador;
 
 architecture multiplexador_arch of multiplexador is
     begin
-        Y <= ( D(0) and not(S(1)) and not(S(0)) ) or ( D(1) and not(S(1)) and S(0) ) or ( D(2) and S(1) and not(S(0)) ) or ( D(3) and S(1) and S(0) );
+        y <= d(0) when s = "00" else
+            d(1) when s = "01" else
+            d(2) when s = "10" else
+            d(3);
 end multiplexador_arch;
