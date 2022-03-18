@@ -13,7 +13,7 @@ Esomador_completo
 Z0 w1647460482
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 10
+!i122 24
 Z3 d/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5
 Z4 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_completo.vhd
 Z5 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_completo.vhd
@@ -23,9 +23,9 @@ V?lV8efP@?S[H8?@N;Uz651
 !s100 gV;ZjhCAHgz]0I6:oEnPT0
 Z6 OV;C;2020.1;71
 32
-Z7 !s110 1647539459
+Z7 !s110 1647566293
 !i10b 1
-Z8 !s108 1647539459.000000
+Z8 !s108 1647566293.000000
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_completo.vhd|
 Z10 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_completo.vhd|
 !i113 1
@@ -35,7 +35,7 @@ Asomador_completo_arch
 R1
 R2
 DEx4 work 16 somador_completo 0 22 ?lV8efP@?S[H8?@N;Uz651
-!i122 10
+!i122 24
 l15
 L14 5
 VQ]O;JOS3644nKkl2G;mX33
@@ -54,7 +54,7 @@ Esomador_palavras_1
 Z13 w1647473882
 R1
 R2
-!i122 9
+!i122 23
 R3
 Z14 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1.vhd
 Z15 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1.vhd
@@ -66,9 +66,9 @@ R6
 32
 R7
 !i10b 1
-Z16 !s108 1647539458.000000
-Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1.vhd|
-Z18 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1.vhd|
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1.vhd|
+Z17 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1.vhd|
 !i113 1
 R11
 R12
@@ -76,7 +76,7 @@ Asomador_palavras_1_arch
 R1
 R2
 DEx4 work 18 somador_palavras_1 0 22 C:[^^`JMc5?88Ogb;mfHS3
-!i122 9
+!i122 23
 l25
 L12 19
 VjDK1:l6Yo]K:nIASHWONE1
@@ -85,20 +85,20 @@ R6
 32
 R7
 !i10b 1
+R8
 R16
 R17
-R18
 !i113 1
 R11
 R12
 Esomador_palavras_1_tb
-Z19 w1647539448
+Z18 w1647539448
 R1
 R2
-!i122 11
+!i122 25
 R3
-Z20 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1_tb.vhd
-Z21 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1_tb.vhd
+Z19 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1_tb.vhd
+Z20 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1_tb.vhd
 l0
 L4 1
 VPazoN:^KkffDjD8i@LCMH2
@@ -108,8 +108,8 @@ R6
 R7
 !i10b 1
 R8
-Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1_tb.vhd|
-!s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1_tb.vhd|
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1_tb.vhd|
+Z22 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1_tb.vhd|
 !i113 1
 R11
 R12
@@ -117,7 +117,7 @@ Asomador_palavras_1_arch
 R1
 R2
 DEx4 work 21 somador_palavras_1_tb 0 22 PazoN:^KkffDjD8i@LCMH2
-!i122 11
+!i122 25
 l27
 L6 34
 VHj1KQ=;2<@=IJbb]n[S?X0
@@ -127,51 +127,137 @@ R6
 R7
 !i10b 1
 R8
+R21
 R22
-Z23 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_1_tb.vhd|
+!i113 1
+R11
+R12
+Esomador_palavras_2
+Z23 w1647566287
+Z24 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R1
+R2
+!i122 22
+R3
+Z25 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2.vhd
+Z26 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2.vhd
+l0
+L5 1
+Vi7JilPAOahb2aQI>zI9GI0
+!s100 Z2oV67U52Af6:KF?bBo5Q2
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2.vhd|
+Z28 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2.vhd|
+!i113 1
+R11
+R12
+Asomador_palavras_2_arch
+R24
+R1
+R2
+DEx4 work 18 somador_palavras_2 0 22 i7JilPAOahb2aQI>zI9GI0
+!i122 22
+l15
+Z29 L14 4
+V6AYJHz;^DC8D4B@eNoZ<f1
+!s100 @[8jU]Vk>W`HXh^=o@ZT52
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Esomador_palavras_2_tb
+Z30 w1647566256
+R24
+R1
+R2
+!i122 26
+R3
+Z31 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2_tb.vhd
+Z32 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2_tb.vhd
+l0
+L5 1
+VlN5Wf2GL^LJZ6jSVbf3bc3
+!s100 T=G_P?[TT4c^KUk;In_k_2
+R6
+32
+R7
+!i10b 1
+R8
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2_tb.vhd|
+Z34 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2_tb.vhd|
+!i113 1
+R11
+R12
+Asomador_palavras_2_arch
+R24
+R1
+R2
+Z35 DEx4 work 21 somador_palavras_2_tb 0 22 lN5Wf2GL^LJZ6jSVbf3bc3
+!i122 26
+l28
+Z36 L7 34
+Z37 V:12z0zkKO<?WAZW8n^]gg0
+Z38 !s100 ;H;WVO6nd4FWZj>lTW_Dg3
+R6
+32
+R7
+!i10b 1
+R8
+R33
+R34
 !i113 1
 R11
 R12
 Esomador_palavras_4
-Z24 w1646999104
-Z25 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z39 w1646999104
+R24
 R1
 R2
 !i122 8
 R3
-Z26 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2.vhd
-Z27 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2.vhd
+R25
+R26
 l0
 L5 1
 V9f=955^eZSITiAk:JTV8o2
 !s100 MO]h04]48zXGgciofR4eI2
 R6
 32
-Z28 !s110 1647539458
+Z40 !s110 1647539458
 !i10b 1
-R16
-Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2.vhd|
-Z30 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio5/somador_palavras_2.vhd|
+Z41 !s108 1647539458.000000
+R27
+R28
 !i113 1
 R11
 R12
 Asomador_palavras_4_arch
-R25
+R24
 R1
 R2
 DEx4 work 18 somador_palavras_4 0 22 9f=955^eZSITiAk:JTV8o2
 !i122 8
 l15
-L14 4
+R29
 V9hTzQlBLHfN^Wl6dJ1LFl0
 !s100 4S:@Q7?leOA4J4BBn`_L52
 R6
 32
-R28
+R40
 !i10b 1
-R16
-R29
-R30
+R41
+R27
+R28
 !i113 1
 R11
 R12
