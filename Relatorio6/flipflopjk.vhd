@@ -9,14 +9,16 @@ entity flipflopJK is
 end flipflopJK;
 
 architecture flipflopJK_arch of flipflopJK is
+
     signal Qbuf: std_logic := '0';
     signal JK: std_logic_vector (1 downto 0);
+
     begin
         JK <= J & K;
         process(clk, clr, pr)
         begin
             if pr = '1' then Qbuf <= '1';
-            elsif pr = '0' and clr = '0' then Qbuf <= '0';
+            elsif clr = '1' then Qbuf <= '0';
             elsif rising_edge(clk) then
                 case JK is
                     when "01" => Qbuf <= '0';   
@@ -25,6 +27,7 @@ architecture flipflopJK_arch of flipflopJK is
                     when others => Qbuf <= Qbuf;  
                 end case;
             end if;
-            Q <= Qbuf;
-            end process;
+        end process;
+
+        Q <= Qbuf;
 end flipflopJK_arch;

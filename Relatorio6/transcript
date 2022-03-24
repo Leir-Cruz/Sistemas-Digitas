@@ -7,3 +7,62 @@
 # Compile of flipflopjk.vhd failed with 1 errors.
 # Compile of flipflopjk.vhd failed with 1 errors.
 # Compile of flipflopjk.vhd was successful.
+# Compile of flipflopjk.vhd was successful.
+# Compile of flipflopjk_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.flipflopjk_tb
+# vsim work.flipflopjk_tb 
+# Start time: 14:25:46 on Mar 24,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.flipflopjk_tb(flipflopjk_arch)
+# Loading work.flipflopjk(flipflopjk_arch)
+add wave -position insertpoint sim:/flipflopjk_tb/flipflopJK_1/*
+run
+run
+# Compile of flipflopjk.vhd was successful.
+# Compile of flipflopjk_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.flipflopjk_tb
+# End time: 14:32:03 on Mar 24,2022, Elapsed time: 0:06:17
+# Errors: 0, Warnings: 15
+# vsim work.flipflopjk_tb 
+# Start time: 14:32:03 on Mar 24,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.flipflopjk_tb(flipflopjk_arch)
+# Loading work.flipflopjk(flipflopjk_arch)
+add wave -position insertpoint sim:/flipflopjk_tb/flipflopJK_1/*
+run
+# Compile of flipflopjk.vhd was successful.
+# Compile of flipflopjk_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.flipflopjk_tb
+# End time: 14:33:44 on Mar 24,2022, Elapsed time: 0:01:41
+# Errors: 0, Warnings: 2
+# vsim work.flipflopjk_tb 
+# Start time: 14:33:44 on Mar 24,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.flipflopjk_tb(flipflopjk_arch)
+# Loading work.flipflopjk(flipflopjk_arch)
+add wave -position insertpoint sim:/flipflopjk_tb/flipflopJK_1/*
+run
+# Compile of flipflopjk.vhd was successful.
+# Compile of flipflopjk_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.flipflopjk_tb
+# End time: 14:37:34 on Mar 24,2022, Elapsed time: 0:03:50
+# Errors: 0, Warnings: 2
+# vsim work.flipflopjk_tb 
+# Start time: 14:37:34 on Mar 24,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.flipflopjk_tb(flipflopjk_arch)
+# Loading work.flipflopjk(flipflopjk_arch)
+add wave -position insertpoint sim:/flipflopjk_tb/flipflopJK_1/*
+run

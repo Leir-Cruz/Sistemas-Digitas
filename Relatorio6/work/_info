@@ -10,10 +10,10 @@ z2
 cModel Technology
 d/home/gabrielcruz
 Eflipflopjk
-Z0 w1648132713
+Z0 w1648143352
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 7
+!i122 14
 Z3 d/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6
 Z4 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd
 Z5 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd
@@ -23,30 +23,71 @@ VY9:HPD;][jbf6g]S9ooWl0
 !s100 ca_548QSBn=7a7c>z;IEA3
 Z6 OV;C;2020.1;71
 32
-Z7 !s110 1648132724
+Z7 !s110 1648143446
 !i10b 1
-Z8 !s108 1648132724.000000
+Z8 !s108 1648143446.000000
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd|
-!s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd|
+Z10 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd|
 !i113 1
-Z10 o-work work -2002 -explicit
-Z11 tExplicit 1 CvgOpt 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
 Aflipflopjk_arch
 R1
 R2
 DEx4 work 10 flipflopjk 0 22 Y9:HPD;][jbf6g]S9ooWl0
-!i122 7
-l14
-L11 20
-V1Kg6V?A3e?_IRTabaGCIb0
-!s100 B<5n[_a]P7ek87d:A`OEB0
+!i122 14
+l16
+L11 23
+VJhB6a3Efz0z=k?dkY5zDb1
+!s100 9FloiT=YSZKk4HGMbSWeb1
 R6
 32
 R7
 !i10b 1
 R8
 R9
-Z12 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd|
-!i113 1
 R10
+!i113 1
 R11
+R12
+Eflipflopjk_tb
+Z13 w1648143441
+R1
+R2
+!i122 15
+R3
+Z14 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk_tb.vhd
+Z15 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk_tb.vhd
+l0
+L4 1
+V@7=m=>1I7_B5UdWe5dGLk0
+!s100 R116mI;`hX0GmAa6c7OTR3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk_tb.vhd|
+Z17 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk_tb.vhd|
+!i113 1
+R11
+R12
+Aflipflopjk_arch
+R1
+R2
+Z18 DEx4 work 13 flipflopjk_tb 0 22 @7=m=>1I7_B5UdWe5dGLk0
+!i122 15
+l22
+Z19 L6 26
+VU4DIEKIU:HacOolgTCW0_3
+!s100 P=U3695X4U8XJg`PZ_T4=3
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
