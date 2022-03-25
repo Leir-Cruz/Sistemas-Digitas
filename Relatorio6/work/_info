@@ -13,7 +13,7 @@ Eflipflopjk
 Z0 w1648143352
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 14
+!i122 38
 Z3 d/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6
 Z4 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd
 Z5 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd
@@ -23,9 +23,9 @@ VY9:HPD;][jbf6g]S9ooWl0
 !s100 ca_548QSBn=7a7c>z;IEA3
 Z6 OV;C;2020.1;71
 32
-Z7 !s110 1648143446
+Z7 !s110 1648230985
 !i10b 1
-Z8 !s108 1648143446.000000
+Z8 !s108 1648230985.000000
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd|
 Z10 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk.vhd|
 !i113 1
@@ -35,7 +35,7 @@ Aflipflopjk_arch
 R1
 R2
 DEx4 work 10 flipflopjk 0 22 Y9:HPD;][jbf6g]S9ooWl0
-!i122 14
+!i122 38
 l16
 L11 23
 VJhB6a3Efz0z=k?dkY5zDb1
@@ -54,7 +54,7 @@ Eflipflopjk_tb
 Z13 w1648143441
 R1
 R2
-!i122 15
+!i122 39
 R3
 Z14 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk_tb.vhd
 Z15 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/flipflopjk_tb.vhd
@@ -75,10 +75,10 @@ R12
 Aflipflopjk_arch
 R1
 R2
-Z18 DEx4 work 13 flipflopjk_tb 0 22 @7=m=>1I7_B5UdWe5dGLk0
-!i122 15
+DEx4 work 13 flipflopjk_tb 0 22 @7=m=>1I7_B5UdWe5dGLk0
+!i122 39
 l22
-Z19 L6 26
+L6 26
 VU4DIEKIU:HacOolgTCW0_3
 !s100 P=U3695X4U8XJg`PZ_T4=3
 R6
@@ -88,6 +88,110 @@ R7
 R8
 R16
 R17
+!i113 1
+R11
+R12
+Eregis
+Z18 w1648228845
+R1
+R2
+!i122 40
+R3
+Z19 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/regis.vhd
+Z20 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/regis.vhd
+l0
+L4 1
+V6C32aXD34[C[bR>KQUWdk2
+!s100 ^LhW;ST>^_Y7BNEcPY0Jz0
+R6
+32
+Z21 !s110 1648230986
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/regis.vhd|
+Z23 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/regis.vhd|
+!i113 1
+R11
+R12
+Aregis_arch
+R1
+R2
+Z24 DEx4 work 5 regis 0 22 6C32aXD34[C[bR>KQUWdk2
+!i122 40
+l16
+L12 20
+VlY87ncFgG5l4^A0@ddnZR1
+!s100 =b_X@6DgUMYXKfl?LMHbR2
+R6
+32
+R21
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Aregis_tb
+w1648230096
+R1
+R2
+R24
+!i122 29
+Z25 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/regis_tb.vhd
+Z26 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/regis_tb.vhd
+l29
+Z27 L6 37
+V6_;b5RYHgH[iY;gBBd[CU0
+!s100 A5K;Io7i8P]6e]?Zzhb1g2
+R6
+32
+!s110 1648230177
+!i10b 1
+!s108 1648230177.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/regis_tb.vhd|
+Z28 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/regis_tb.vhd|
+!i113 1
+R11
+R12
+Eregis_tb
+Z29 w1648230976
+R1
+R2
+!i122 41
+R3
+R25
+R26
+l0
+L4 1
+V]:6_G1UljIW[k7Q3dmE?41
+!s100 mHSonknWfFCF19X3J3@:c2
+R6
+32
+R21
+!i10b 1
+Z30 !s108 1648230986.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio6/regis_tb.vhd|
+R28
+!i113 1
+R11
+R12
+Aregis_arch
+R1
+R2
+Z32 DEx4 work 8 regis_tb 0 22 ]:6_G1UljIW[k7Q3dmE?41
+!i122 41
+l28
+L6 36
+ViQc8J]o=TJDfK1ffz2TV@2
+!s100 hmKXJ@bjofOMKH4PTmV`n1
+R6
+32
+R21
+!i10b 1
+R30
+R31
+R28
 !i113 1
 R11
 R12
