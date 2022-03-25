@@ -66,3 +66,5 @@ vsim work.flipflopjk_tb
 # Loading work.flipflopjk(flipflopjk_arch)
 add wave -position insertpoint sim:/flipflopjk_tb/flipflopJK_1/*
 run
+# End time: 15:15:27 on Mar 24,2022, Elapsed time: 0:37:53
+# Errors: 0, Warnings: 1
