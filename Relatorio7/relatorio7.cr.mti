@@ -1,0 +1,17 @@
+/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity maquinaEstados
+-- Compiling architecture maquinaEstados_arch of maquinaEstados
+
+} {} {}} /home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity maquinaEstados_tb
+-- Compiling architecture maquinaEstados_arch of maquinaEstados_tb
+
+} {} {}}

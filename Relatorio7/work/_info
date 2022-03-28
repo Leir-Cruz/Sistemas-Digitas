@@ -10,10 +10,10 @@ z2
 cModel Technology
 d/home/gabrielcruz
 Emaquinaestados
-Z0 w1648430700
+Z0 w1648493651
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 9
+!i122 20
 Z3 d/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7
 Z4 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd
 Z5 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd
@@ -23,19 +23,19 @@ V?if;YkS[NG96<eFC]nfz]1
 !s100 6kJhW3TUgg@35FWa50XJU0
 Z6 OV;C;2020.1;71
 32
-Z7 !s110 1648430705
+Z7 !s110 1648498425
 !i10b 1
-Z8 !s108 1648430705.000000
+Z8 !s108 1648498425.000000
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd|
-!s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd|
+Z10 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd|
 !i113 1
-Z10 o-work work -2002 -explicit
-Z11 tExplicit 1 CvgOpt 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
 Amaquinaestados_arch
 R1
 R2
 DEx4 work 14 maquinaestados 0 22 ?if;YkS[NG96<eFC]nfz]1
-!i122 9
+!i122 20
 l18
 L13 87
 VhQez86SUjbgL72U0WDc3T1
@@ -46,7 +46,48 @@ R7
 !i10b 1
 R8
 R9
-Z12 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd|
-!i113 1
 R10
+!i113 1
 R11
+R12
+Emaquinaestados_tb
+Z13 w1648493627
+R1
+R2
+!i122 21
+R3
+Z14 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante_tb.vhd
+Z15 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante_tb.vhd
+l0
+L4 1
+VaK]<43G;3B<AVjnlG39@A1
+!s100 M<i;N6]>cVcW2`>AYBkma1
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante_tb.vhd|
+Z17 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante_tb.vhd|
+!i113 1
+R11
+R12
+Amaquinaestados_arch
+R1
+R2
+Z18 DEx4 work 17 maquinaestados_tb 0 22 aK]<43G;3B<AVjnlG39@A1
+!i122 21
+l23
+Z19 L6 25
+Z20 VzGVa_jdlPE56?>O9D5<KF2
+Z21 !s100 ;?87g``MXPO[RmQXYo5FX2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
