@@ -1,0 +1,52 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gabrielcruz
+Emaquinaestados
+Z0 w1648430700
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 9
+Z3 d/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7
+Z4 8/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd
+Z5 F/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd
+l0
+L4 1
+V?if;YkS[NG96<eFC]nfz]1
+!s100 6kJhW3TUgg@35FWa50XJU0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1648430705
+!i10b 1
+Z8 !s108 1648430705.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd|
+!s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd|
+!i113 1
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Amaquinaestados_arch
+R1
+R2
+DEx4 work 14 maquinaestados 0 22 ?if;YkS[NG96<eFC]nfz]1
+!i122 9
+l18
+L13 87
+VhQez86SUjbgL72U0WDc3T1
+!s100 b3k:W2oUeV;gbnJAhTkTK3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 /home/gabrielcruz/Documentos/Unb/labSD/Relatorio7/refrigerante.vhd|
+!i113 1
+R10
+R11
